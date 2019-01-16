@@ -21,6 +21,7 @@ sources:
   - src/lfsr_8bit.sv
   - src/lfsr_16bit.sv
   - src/spill_register.sv
+  - src/stream_fork.sv
   - src/stream_register.sv
   - src/stream_mux.sv
   - src/stream_demux.sv
