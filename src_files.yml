@@ -6,6 +6,7 @@ common_cells_all:
     - src/fifo_v3.sv
     - src/lfsr_8bit.sv
     - src/spill_register.sv
+    - src/fall_through_register.sv
     - src/stream_fork.sv
     - src/stream_register.sv
     - src/stream_mux.sv
