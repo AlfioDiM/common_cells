@@ -22,6 +22,7 @@ sources:
   - src/lfsr_16bit.sv
   - src/spill_register.sv
   - src/fall_through_register.sv
+  - src/stream_filter.sv
   - src/stream_fork.sv
   - src/stream_register.sv
   - src/stream_mux.sv

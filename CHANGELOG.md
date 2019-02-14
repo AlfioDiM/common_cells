@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Add stream fork
 - Add fall-through register
+- Add stream filter
 
 ## 1.10.0 - 2018-12-18
 
