@@ -38,6 +38,7 @@ common_cells:
     src/deprecated/pulp_sync.sv,
     src/deprecated/clock_divider.sv,
     src/deprecated/clock_divider_counter.sv,
+    src/deprecated/pulp_clock_gating_async.sv,
 ]
 
     # deprecated modules
